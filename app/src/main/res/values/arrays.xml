@@ -1,0 +1,61 @@
+<resources>
+    <string-array name="mathProblems">
+        <item>3 + 5</item>
+        <item>6 + 3</item>
+        <item>5 + 2</item>
+        <item>4 + 4</item>
+        <item>5 + 5</item>
+        <item>3 + 4</item>
+        <item>6 + 6</item>
+        <item>5 + 3</item>
+        <item>4 + 5</item>
+        <item>3 + 6</item>
+        <item>7 + 2</item>
+        <item>6 + 1</item>
+        <item>4 + 3</item>
+        <item>7 + 3</item>
+        <item>5 + 4</item>
+    </string-array>
+    <string-array name="mathSolutions">
+        <item>8</item>
+        <item>9</item>
+        <item>7</item>
+        <item>8</item>
+        <item>10</item>
+        <item>7</item>
+        <item>12</item>
+        <item>8</item>
+        <item>9</item>
+        <item>9</item>
+        <item>9</item>
+        <item>7</item>
+        <item>7</item>
+        <item>10</item>
+        <item>9</item>
+    </string-array>
+
+
+    <string-array name="question_count_entries">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="question_count_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+        <string-array name="language_entries">
+            <item>Norsk</item>
+            <item>Deutsch</item>
+        </string-array>
+
+        <string-array name="language_values">
+            <item>no</item>
+            <item>de</item>
+        </string-array>
+
+
+
+</resources>

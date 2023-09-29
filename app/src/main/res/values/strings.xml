@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Matte Spill</string>
+    <string name="barn">For Barn</string>
+    <string name="feil">Feil svar, prøv igjen</string>
+    <string name="riktig">Riktig svar, kjempe bra!</string>
+    <string name="start">Start Spill</string>
+    <string name="om">Om Spillet</string>
+    <string name="pref">Preferanser</string>
+    <string name="oppgaveTittel">Hva er riktig svar?</string>
+    <string name="oppgave">[HER KOMMER OPPGAVE]</string>
+    <string name="inputTekst">[SKRIVER INN SVAR]</string>
+    <string name="resultat">Resultat</string>
+    <string name="angre">Angre</string>
+    <string name="send">Send</string>
+    <string name="gratis">Gratulerer</string>
+    <string name="nytt">Prøv på nytt</string>
+    <string name="avslutt">Avslutt</string>
+    <string name="bekrefte">Vil du avslutte?</string>
+    <string name="nei">nei</string>
+
+
+
+</resources>

@@ -1,0 +1,24 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/bare_backround">
+    <PreferenceCategory android:title="Präferenzen">
+
+        <ListPreference
+            android:key="question_count"
+            android:title="Anzahl der Fragen"
+            android:summary="Wählen Sie die Anzahl der gewünschten Fragen aus"
+            android:entries="@array/question_count_entries"
+            android:entryValues="@array/question_count_values"
+            android:defaultValue="5"
+            />
+
+        <ListPreference
+            android:key="language_preference"
+            android:title="Wähle deine Sprache"
+            android:summary="%s"
+            android:defaultValue="no"
+            android:entries="@array/language_entries"
+            android:entryValues="@array/language_values" />
+
+
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">MatheAufgabe</string>
+    <string name="barn">Für Kindern</string>
+    <string name="feil">Falsche Antwort, versuche es erneut".</string>
+    <string name="riktig">Richtige Antwort, super gemacht!</string>
+    <string name="start">Spiel starten</string>
+    <string name="om">Über das Spiel</string>
+    <string name="pref">Einstellungen</string>
+    <string name="oppgaveTittel">Aufgabe lösen</string>
+    <string name="oppgave">[HIER KOMMT DIE AUFGABE]</string>
+    <string name="inputTekst">Antwort eingeben</string>
+    <string name="resultat">Ergebnis</string>
+    <string name="angre">Reuee</string>
+    <string name="send">Schicken</string>
+    <string name="gratis">Glückwunsch</string>
+    <string name="nytt">versuchen Sie es erneut</string>
+    <string name="avslutt">Ausfahrt</string>
+    <string name="bekrefte">Möchtest du aufhören?</string>
+    <string name="nei">nein</string>
+
+
+
+</resources>
